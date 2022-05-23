@@ -1,0 +1,11 @@
+# Project exclude paths
+/lagou-cloud-eureka-server-8761/target/
+/lagou-cloud-eureka-server-8762/target/
+/lagou-cloud-gateway-9002/target/
+/lagou-cloud-hystrix-dashboard-9000/target/
+/lagou-service-autodeliver-8090/target/
+/lagou-service-autodeliver-8091/target/
+/lagou-service-autodeliver-8092/target/
+/lagou-service-common/target/
+/lagou-service-resume-8080/target/
+/lagou-service-resume-8081/target/
