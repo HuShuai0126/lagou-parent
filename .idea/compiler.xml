@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -29,6 +30,7 @@
       <module name="lagou-cloud-gateway-9002" options="-parameters" />
       <module name="lagou-cloud-hystrix-dashboard-9000" options="-parameters" />
       <module name="lagou-cloud-stream-producer9090" options="-parameters" />
+      <module name="lagou-parent" options="-parameters" />
       <module name="lagou-service-autodeliver-8090" options="-parameters" />
       <module name="lagou-service-autodeliver-8091" options="-parameters" />
       <module name="lagou-service-autodeliver-8092" options="-parameters" />

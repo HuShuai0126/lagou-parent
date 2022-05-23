@@ -4,8 +4,8 @@ spring:
   application:
     name: lagou-service-resume
   datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://47.96.13.228:3306/lagou?useUnicode=true&characterEncoding=utf8
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3308/lagou-spring-cloud?useUnicode=true&characterEncoding=utf8&autoReconnect=true&failOverReadOnly=false&serverTimezone=UTC
     username: root
     password: root
   jpa:
